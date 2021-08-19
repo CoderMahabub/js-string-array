@@ -8,6 +8,5 @@ if (myFavDate.getTime() < anotherDate.getTime) {
     console.log('Favorite is Earlier');
 } else {
     console.log('Another is Earlier');
-
 }
 
